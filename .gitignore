@@ -1,6 +1,11 @@
 
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/webstorm,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=webstorm,visualstudiocode
+=======
+# Created by https://www.gitignore.io/api/vue,vuejs,webstorm,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=vue,vuejs,webstorm,visualstudiocode
+>>>>>>> dev
 
 ### VisualStudioCode ###
 .vscode/*
@@ -13,6 +18,24 @@
 # Ignore all local history of files
 .history
 
+<<<<<<< HEAD
+=======
+### Vue ###
+# gitignore template for Vue.js projects
+#
+# Recommended template: Node.gitignore
+
+# TODO: where does this rule come from?
+docs/_book
+
+# TODO: where does this rule come from?
+test/
+
+### Vuejs ###
+node_modules
+.DS_Store
+
+>>>>>>> dev
 ### WebStorm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
@@ -92,4 +115,13 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/webstorm,visualstudiocode
+=======
+# End of https://www.gitignore.io/api/vue,vuejs,webstorm,visualstudiocode
+
+# Start of App
+
+.idea
+# End of App
+>>>>>>> dev
