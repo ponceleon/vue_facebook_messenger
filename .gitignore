@@ -108,3 +108,8 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/vue,vuejs,webstorm,visualstudiocode
+
+# Start of App
+
+.idea
+# End of App
